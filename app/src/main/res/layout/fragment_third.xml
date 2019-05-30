@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.edu.swufe.page.ThirdFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="李宣美（Lee Sun Mi），艺名宣美，1992年5月2日出生于韩国庆州青旦县、韩国女歌手，Wonder Girls组合成员。"
+        android:gravity="center"
+        android:id="@+id/textView" />
+
+</FrameLayout>

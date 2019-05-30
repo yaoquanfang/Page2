@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.edu.swufe.page.SecondFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="李钟硕（Lee Jong Suk），1989年9月14日出生于京畿道龙仁，韩国男演员、模特。2010年3月参演律政剧《检察官公主》，以演员身份正式出道"
+        android:gravity="center"
+        android:id="@+id/textView" />
+
+</FrameLayout>

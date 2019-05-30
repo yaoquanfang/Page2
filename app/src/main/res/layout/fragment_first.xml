@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.edu.swufe.page.FirstFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="刘昊然，1997年10月10日出生于河南省平顶山市，中国内地男演员，就读于中央戏剧学院表演系本科。"
+        android:gravity="center"
+        android:id="@+id/textView" />
+
+</FrameLayout>
